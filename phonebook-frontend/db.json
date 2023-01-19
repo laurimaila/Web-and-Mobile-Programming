@@ -1,0 +1,19 @@
+{
+  "persons": [
+    {
+      "name": "Matti Meikäläinen",
+      "number": "040-123456",
+      "id": 1
+    },
+    {
+      "name": "Teijo Terävä",
+      "number": "040-456123",
+      "id": 2
+    },
+    {
+      "name": "Lauri Maila",
+      "number": "040-123456",
+      "id": 3
+    }
+  ]
+}
